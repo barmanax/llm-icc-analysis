@@ -1,6 +1,6 @@
 # LLM ICC Analysis
 
-This repository contains the analysis code used for the paper **Assessing the Consistency of Large Language Models for Algorithm Evaluation**. :contentReference[oaicite:0]{index=0}  
+This repository contains the analysis code used for the paper **Assessing the Consistency of Large Language Models for Algorithm Evaluation**.
 The notebook (`analysis.ipynb`) includes the full data-processing pipeline used in the study conducted in October 2024.
 
 The analysis focuses on evaluating the consistency of several open-source LLMs when grading student algorithm-design responses. Each model was run across multiple trials, rubric scores were collected, and consistency metrics were computed. The notebook covers:
@@ -16,3 +16,4 @@ All results produced in this notebook were used in the figures and tables of the
 
 This repository is mainly for archival and reproducibility purposes.  
 If you’d like to extend the analysis or apply it to new LLM-generated grades, feel free to reach out or open an issue.
+
